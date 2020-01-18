@@ -1,0 +1,24 @@
+{
+  "mnemonic": [
+    "world",
+    "dad",
+    "claw",
+    "prefer",
+    "need",
+    "squeeze",
+    "call",
+    "honey",
+    "kiss",
+    "same",
+    "suffer",
+    "regular",
+    "alarm",
+    "ship",
+    "install"
+  ],
+  "secret": "0fdfbdc04ca0d11a4793fa2b1002996a4c1fd23c",
+  "amount": "13471719521",
+  "pkh": "tz1M29upF5vWLU5dVHGfCdsf156gCeQk5Kji",
+  "password": "PR6F5g4GwK",
+  "email": "epplchcj.fyknwdlq@tezos.example.org"
+}
